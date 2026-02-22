@@ -1,32 +1,22 @@
 <h1 align="center">PrismaBank</h1>
 
 <p align="center">
-  <em>Modern Digital Banking Interface</em>
+  <strong>Digital Banking Interface Concept</strong><br/>
+  Interface moderna • Experiência fluida • Estrutura escalável
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Concluído-22c55e?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Tipo-Frontend%20Application-111827?style=for-the-badge&labelColor=0f172a" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stack-HTML%20•%20CSS%20•%20GSAP-111827?style=for-the-badge&labelColor=0f172a" />
 </p>
 
 ---
 
-## 📌 Sobre o Projeto
+## 🧠 Sobre
 
-O **PrismaBank** é uma interface bancária digital desenvolvida com foco em:
+O **PrismaBank** é um projeto conceitual de interface bancária digital desenvolvido para simular um ambiente de fintech moderno.
 
-- Design moderno e minimalista  
-- Experiência fluida  
-- Estrutura organizada e escalável  
-- Simulação de ambiente financeiro  
-
-O projeto explora conceitos de UI/UX aplicados ao contexto de fintech, com atenção especial à clareza visual e hierarquia de informações.
+O foco está na organização visual, clareza de informações e aplicação de boas práticas de desenvolvimento frontend.
 
 ---
 
@@ -38,45 +28,33 @@ O projeto explora conceitos de UI/UX aplicados ao contexto de fintech, com aten�
 
 ---
 
-## 🚀 Funcionalidades
+## 🌐 Deploy
 
-- Dashboard bancário interativo  
-- Exibição de saldo e transações  
-- Interface responsiva  
-- Componentização visual organizada  
-- Navegação fluida  
+🔗 https://site-prisma-bank.vercel.app/
 
 ---
 
-## 🛠 Stack Utilizada
+## 🚀 O que o projeto demonstra
 
-| Tecnologia   | Finalidade |
-|--------------|------------|
-| HTML5        | Estrutura semântica |
-| CSS3         | Estilização e layout |
-| JavaScript   | Lógica e interatividade |
+- Dashboard bancário interativo  
+- Exibição de saldo e transações  
+- Layout responsivo  
+- Estrutura modular organizada  
+- Experiência fluida  
 
 ---
 
 ## 🎯 Objetivo
 
-Criar uma interface bancária conceitual aplicando boas práticas de desenvolvimento frontend, organização visual e arquitetura limpa.
+Demonstrar domínio de estruturação frontend aplicando conceitos de UI/UX em um cenário de aplicação financeira.
 
 ---
 
-## 🔮 Próximas Melhorias
-
-- Integração com dados simulados dinâmicos  
-- Modo escuro  
-- Sistema de autenticação visual  
-- Animações mais avançadas  
-
----
-
-## ⭐ Apoie o Projeto
+## ⭐ Apoie
 
 <p align="center">
-  Se você curtiu o <strong>PrismaBank</strong>, considere deixar uma ⭐ no repositório.
+  Curtiu o projeto?<br/>
+  Deixe uma ⭐ no repositório.
 </p>
 
 ---
